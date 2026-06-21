@@ -1,4 +1,6 @@
 # Ducato Finance — Analisi Finanziaria
+[![Beta](https://img.shields.io/badge/HermesBro-beta-8b9cb3?style=flat-square&logo=github)]()
+
 
 **L'analista finanziario operativo della flotta HermesBro.** Ducato produce scenari finanziari: best/base/worst case, break-even, runway, allocazione portafoglio.
 
